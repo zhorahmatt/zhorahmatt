@@ -1,9 +1,10 @@
-- 👋 Hi. I am Builder. Solve your real problems with technology.
+### Hi, I'm Rahmat 👋
 
-- Parttime Digital Marketing
-- Interested to collaborate? Email me info.rahmathidayat@gmail.com
+I build software that solves real problems, and run the marketing that gets it found.
 
-<!---
-zhorahmatt/zhorahmatt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **Engineering Lead at [Afila](https://afila.co.id)**, leading the team behind platforms like [E-SAKIP](https://esakip.com), [E-Monev](https://emonev.com) and [Dikerja](https://dikerja.com).
+- **Founder of [Thuuba](https://thuuba.web.id)**, a digital marketing agency running Meta Ads, Google Ads and TikTok Ads.
+
+**Working with:** Laravel · Vue · React · Next.js · TypeScript · Go · PostgreSQL · Supabase · Redis · Docker
+
+**Find me:** [rahmathidayats.my.id](https://rahmathidayats.my.id) · [LinkedIn](https://www.linkedin.com/in/rahmathidayatofficial/) · work.rahmathidayat@gmail.com
